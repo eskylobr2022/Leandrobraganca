@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leandrobraganca
-- 👀 I’m interested in Programation 
-- 🌱 I’m currently learning  Java
+- 👀 I’m interested in Programation and script
+- 🌱 I’m currently learning  Java and python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me leandro.bragancal@gmail.com
 
